@@ -1,0 +1,212 @@
+Country Name,Country Code,Continent,Region
+Afghanistan,AFG,Asia,Southern Asia
+Albania,ALB,Europe,Southern Europe
+Algeria,DZA,Africa,Northern Africa
+Andorra,AND,Europe,Southern Europe
+Angola,AGO,Africa,Central Africa
+Antigua and Barbuda,ATG,America,Caribbean
+Argentina,ARG,America,South America
+Armenia,ARM,Asia,Western Asia
+Australia,AUS,Oceania,Australia and New Zealand
+Austria,AUT,Europe,Western Europe
+Azerbaijan,AZE,Asia,Western Asia
+Bahamas,BHS,America,Caribbean
+Bahrain,BHR,Asia,Western Asia
+Bangladesh,BGD,Asia,Southern Asia
+Barbados,BRB,America,Caribbean
+Belarus,BLR,Europe,Eastern Europe
+Belgium,BEL,Europe,Western Europe
+Belize,BLZ,America,Central America
+Benin,BEN,Africa,Western Africa
+Bhutan,BTN,Asia,Southern Asia
+Bolivia,BOL,America,South America
+Bosnia and Herzegovina,BIH,Europe,Southern Europe
+Botswana,BWA,Africa,Southern Africa
+Brazil,BRA,America,South America
+Brunei Darussalam,BRN,Asia,South-Eastern Asia
+Bulgaria,BGR,Europe,Eastern Europe
+Burkina Faso,BFA,Africa,Western Africa
+Burundi,BDI,Africa,Eastern Africa
+Cabo Verde,CPV,Africa,Western Africa
+Cambodia,KHM,Asia,South-Eastern Asia
+Cameroon,CMR,Africa,Central Africa
+Canada,CAN,America,Northern America
+Central African Republic,CAF,Africa,Central Africa
+Chad,TCD,Africa,Central Africa
+Chile,CHL,America,South America
+China,CHN,Asia,Eastern Asia
+Colombia,COL,America,South America
+Comoros,COM,Africa,Eastern Africa
+Congo,COG,Africa,Central Africa
+Costa Rica,CRI,America,Central America
+C te d'Ivoire,CIV,Africa,Western Africa
+Croatia,HRV,Europe,Southern Europe
+Cuba,CUB,America,Caribbean
+Cyprus,CYP,Asia,Western Asia
+Czechia,CZE,Europe,Eastern Europe
+Denmark,DNK,Europe,Northern Europe
+Djibouti,DJI,Africa,Eastern Africa
+Dominica,DMA,America,Caribbean
+Dominican Republic,DOM,America,Caribbean
+Ecuador,ECU,America,South America
+Egypt,EGY,Africa,Northern Africa
+El Salvador,SLV,America,Central America
+Equatorial Guinea,GNQ,Africa,Central Africa
+Eritrea,ERI,Africa,Eastern Africa
+Estonia,EST,Europe,Northern Europe
+Eswatini,SWZ,Africa,Southern Africa
+Ethiopia,ETH,Africa,Eastern Africa
+Fiji,FJI,Oceania,Melanesia
+Finland,FIN,Europe,Northern Europe
+France,FRA,Europe,Western Europe
+Gabon,GAB,Africa,Central Africa
+Gambia,GMB,Africa,Western Africa
+Georgia,GEO,Asia,Western Asia
+Germany,DEU,Europe,Western Europe
+Ghana,GHA,Africa,Western Africa
+Greece,GRC,Europe,Southern Europe
+Grenada,GRD,America,Caribbean
+Guatemala,GTM,America,Central America
+Guinea,GIN,Africa,Western Africa
+Guinea-Bissau,GNB,Africa,Western Africa
+Guyana,GUY,America,South America
+Haiti,HTI,America,Caribbean
+Honduras,HND,America,Central America
+Hungary,HUN,Europe,Eastern Europe
+Iceland,ISL,Europe,Northern Europe
+India,IND,Asia,Southern Asia
+Indonesia,IDN,Asia,South-Eastern Asia
+Iran,IRN,Asia,Southern Asia
+Iraq,IRQ,Asia,Western Asia
+Ireland,IRL,Europe,Northern Europe
+Israel,ISR,Asia,Western Asia
+Italy,ITA,Europe,Southern Europe
+Jamaica,JAM,America,Caribbean
+Japan,JPN,Asia,Eastern Asia
+Jordan,JOR,Asia,Western Asia
+Kazakhstan,KAZ,Asia,Central Asia
+Kenya,KEN,Africa,Eastern Africa
+Kiribati,KIR,Oceania,Micronesia
+North Korea,PRK,Asia,Eastern Asia
+South Korea,KOR,Asia,Eastern Asia
+Kuwait,KWT,Asia,Western Asia
+Kyrgyzstan,KGZ,Asia,Central Asia
+Lao People's Democratic Republic,LAO,Asia,South-Eastern Asia
+Latvia,LVA,Europe,Northern Europe
+Lebanon,LBN,Asia,Western Asia
+Lesotho,LSO,Africa,Southern Africa
+Liberia,LBR,Africa,Western Africa
+Libya,LBY,Africa,Northern Africa
+Liechtenstein,LIE,Europe,Western Europe
+Lithuania,LTU,Europe,Northern Europe
+Luxembourg,LUX,Europe,Western Europe
+Madagascar,MDG,Africa,Eastern Africa
+Malawi,MWI,Africa,Eastern Africa
+Malaysia,MYS,Asia,South-Eastern Asia
+Maldives,MDV,Asia,Southern Asia
+Mali,MLI,Africa,Western Africa
+Malta,MLT,Europe,Southern Europe
+Marshall Islands,MHL,Oceania,Micronesia
+Mauritania,MRT,Africa,Western Africa
+Mauritius,MUS,Africa,Eastern Africa
+Mexico,MEX,America,Northern America
+Micronesia,FSM,Oceania,Micronesia
+Moldova,MDA,Europe,Eastern Europe
+Monaco,MCO,Europe,Western Europe
+Mongolia,MNG,Asia,Eastern Asia
+Montenegro,MNE,Europe,Southern Europe
+Morocco,MAR,Africa,Northern Africa
+Mozambique,MOZ,Africa,Eastern Africa
+Myanmar,MMR,Asia,South-Eastern Asia
+Namibia,NAM,Africa,Southern Africa
+Nauru,NRU,Oceania,Micronesia
+Nepal,NPL,Asia,Southern Asia
+Netherlands,NLD,Europe,Western Europe
+New Zealand,NZL,Oceania,Australia and New Zealand
+Nicaragua,NIC,America,Central America
+Niger,NER,Africa,Western Africa
+Nigeria,NGA,Africa,Western Africa
+North Macedonia,MKD,Europe,Southern Europe
+Norway,NOR,Europe,Northern Europe
+Oman,OMN,Asia,Western Asia
+Pakistan,PAK,Asia,Southern Asia
+Palau,PLW,Oceania,Micronesia
+Palestine,PSE,Asia,Western Asia
+Panama,PAN,America,Central America
+Papua New Guinea,PNG,Oceania,Melanesia
+Paraguay,PRY,America,South America
+Peru,PER,America,South America
+Philippines,PHL,Asia,South-Eastern Asia
+Poland,POL,Europe,Eastern Europe
+Portugal,PRT,Europe,Southern Europe
+Qatar,QAT,Asia,Western Asia
+Romania,ROU,Europe,Eastern Europe
+Russian Federation,RUS,Europe,Eastern Europe
+Rwanda,RWA,Africa,Eastern Africa
+Saint Kitts and Nevis,KNA,America,Caribbean
+Saint Lucia,LCA,America,Caribbean
+Saint Vincent and the Grenadines,VCT,America,Caribbean
+Samoa,WSM,Oceania,Polynesia
+San Marino,SMR,Europe,Southern Europe
+Sao Tome and Principe,STP,Africa,Central Africa
+Saudi Arabia,SAU,Asia,Western Asia
+Senegal,SEN,Africa,Western Africa
+Serbia,SRB,Europe,Southern Europe
+Seychelles,SYC,Africa,Eastern Africa
+Sierra Leone,SLE,Africa,Western Africa
+Singapore,SGP,Asia,South-Eastern Asia
+Slovakia,SVK,Europe,Eastern Europe
+Slovenia,SVN,Europe,Southern Europe
+Solomon Islands,SLB,Oceania,Melanesia
+Somalia,SOM,Africa,Eastern Africa
+South Africa,ZAF,Africa,Southern Africa
+South Sudan,SSD,Africa,Eastern Africa
+Spain,ESP,Europe,Southern Europe
+Sri Lanka,LKA,Asia,Southern Asia
+Sudan,SDN,Africa,Northern Africa
+Suriname,SUR,America,South America
+Sweden,SWE,Europe,Northern Europe
+Switzerland,CHE,Europe,Western Europe
+Syrian Arab Republic,SYR,Asia,Western Asia
+Tajikistan,TJK,Asia,Central Asia
+Tanzania,TZA,Africa,Eastern Africa
+Thailand,THA,Asia,South-Eastern Asia
+Timor-Leste,TLS,Asia,South-Eastern Asia
+Togo,TGO,Africa,Western Africa
+Tonga,TON,Oceania,Polynesia
+Trinidad and Tobago,TTO,America,Caribbean
+Tunisia,TUN,Africa,Northern Africa
+Turkey,TUR,Asia,Western Asia
+Turkmenistan,TKM,Asia,Central Asia
+Tuvalu,TUV,Oceania,Polynesia
+Uganda,UGA,Africa,Eastern Africa
+Ukraine,UKR,Europe,Eastern Europe
+United Arab Emirates,ARE,Asia,Western Asia
+United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Northern Europe
+United States of America,USA,America,Northern America
+Uruguay,URY,America,South America
+Uzbekistan,UZB,Asia,Central Asia
+Vanuatu,VUT,Oceania,Melanesia
+Venezuela,VEN,America,South America
+Viet Nam,VNM,Asia,South-Eastern Asia
+Yemen,YEM,Asia,Western Asia
+Zambia,ZMB,Africa,Eastern Africa
+Zimbabwe,ZWE,Africa,Eastern Africa
+American Samoa,ASM,Oceania,Polynesia
+Aruba,ABW,America,Caribbean
+Bermuda,BMU,America,Northern America
+British Virgin Islands,VGB,America,Caribbean
+Cayman Islands,CYM,America,Caribbean
+DR Congo,COD,Africa,Central Africa
+Curacao,CUW,America,Caribbean
+Faroe Islands,FRO,Europe,Northern Europe
+Gibraltar,GIB,Europe,Southern Europe
+Greenland,GRL,America,Northern America
+Guam,GUM,Oceania,Micronesia
+Isle of Man,IMN,Europe,Northern Europe
+Northern Mariana Islands,MNP,Oceania,Micronesia
+Puerto Rico,PRI,America,Caribbean
+Sint Maarten (Dutch part),SXM,America,Caribbean
+St. Martin (French part),MAF,America,Caribbean
+Turks and Caicos Islands,TCA,America,Caribbean
+Virgin Islands (U.S.),VIR,America,Caribbean
